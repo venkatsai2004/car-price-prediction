@@ -8,7 +8,9 @@ This app predicts the **car purchase price** of a customer based on financial an
 - Inputs like age, annual salary, credit card debt, and net worth are used to predict the likely price a customer would pay for a car.
 - The model scales input features, makes a prediction using a Keras model, and rescales the output to the original price format.
 
-🧠 **Model Details:**
+- The Link to use My Hugging face model :(https://huggingface.co/spaces/Vsai2004/Vsai)
+
+🧠 **Model -Details:**
 - Keras Sequential ANN
 - Layers: Dense + ReLU with Dropout
 - Loss: Mean Squared Error
